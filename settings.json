@@ -1,0 +1,15 @@
+{
+    "name": "Jokes",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/file_storage/core-sia": true,
+        "/category/file_storage/core-sia/mode": "single",
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "LOL",
+        "/category/asset_value_tracking/core-token/symbol": "LOL",
+        "/category/asset_value_tracking/core-token/decimals": "100000",
+        "/category/asset_value_tracking/core-token/supply": "100"
+    }
+}

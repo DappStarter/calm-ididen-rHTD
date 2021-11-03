@@ -1,0 +1,26 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "file_storage",
+            "name": "core-sia",
+            "parameters": {
+                "mode": "single"
+            }
+        },
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "LOL",
+                "symbol": "LOL",
+                "decimals": "100000",
+                "supply": "100"
+            }
+        }
+    ],
+    "blockchain": "ethereum",
+    "language": "solidity",
+    "framework": "vanilla"
+}
